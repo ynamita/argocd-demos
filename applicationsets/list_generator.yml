@@ -28,7 +28,7 @@ spec:
         targetRevision: main
         path: '{{path}}'                # resolved from element
       destination:
-        server: https://172.31.12.57:33894
+        server: https://172.31.39.82:33894
         namespace: default
       syncPolicy:
         automated:
