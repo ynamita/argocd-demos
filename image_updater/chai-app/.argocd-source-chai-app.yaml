@@ -1,3 +1,4 @@
 kustomize:
   images:
   - trainwithshubham/chai-devops:v1.0.3
+  - namita850/chai-devops:v1.0.3
